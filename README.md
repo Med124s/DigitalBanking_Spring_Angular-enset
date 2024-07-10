@@ -82,7 +82,7 @@ Le projet est divisé en deux parties principales : un backend basé sur Spring 
 
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/ELMOUADDIBE/DigitalBanking_Spring_Angular.git
+   git clone https://github.com/Med124s/DigitalBanking_Spring_Angular.git
    ```
 
 2. Configurer la base de données dans `application.properties` :
